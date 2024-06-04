@@ -4,7 +4,7 @@ const Hero = () => {
 	return (
 		<div className='w-full h-[90vh]'>
 			<img
-				src='\img\IMG_0018_2.jpg'
+				src='img\IMG_0018_2.jpg'
 				alt='Show Me'
 				className='w-full h-full object-cover brightness-50'
 			/>
