@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mres_site/static/css/main.ba297bb1.css",
-    "main.js": "/mres_site/static/js/main.da01c303.js",
+    "main.js": "/mres_site/static/js/main.1de244e6.js",
     "index.html": "/mres_site/index.html",
     "main.ba297bb1.css.map": "/mres_site/static/css/main.ba297bb1.css.map",
-    "main.da01c303.js.map": "/mres_site/static/js/main.da01c303.js.map"
+    "main.1de244e6.js.map": "/mres_site/static/js/main.1de244e6.js.map"
   },
   "entrypoints": [
     "static/css/main.ba297bb1.css",
-    "static/js/main.da01c303.js"
+    "static/js/main.1de244e6.js"
   ]
 }
